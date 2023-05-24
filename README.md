@@ -4,7 +4,7 @@
 
 -{geheim, sogar sehr} (github unbekannt)
 
-### HELFER:
+### MITWIRKENDE:
 
 -yoshi pet (kein github)
 <br>
@@ -17,7 +17,7 @@
 
 -Secret1337 [24-05]
 
-### FÜR DIE ENTWICKLER:
+### FÜR DIE MITWIRKENDE:
 Bitte nicht die version ändern direkt von V1.0 auf V2.0 wenn ich was ändert.
 <br><br>
 Bitte ändert das so:
